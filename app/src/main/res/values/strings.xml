@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tarea UI</string>
+    <string name="username_hint">Nombre de usuario</string>
+    <string name="email_hint">Correo electronico</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="register_button">Regístrate</string>
+    <string name="login_button">Login</string>
+    <string name="profile_pic_hint">Imagen de perfil</string>
+    <string name="confirm_password_hint">Confirmar contraseña</string>
+</resources>
